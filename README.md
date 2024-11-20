@@ -111,6 +111,11 @@ pm2 start orderServer.js --name order1 --watch -- 5002
 pm2 start orderServer.js --name order2 --watch -- 5012
 ```
 
+Or use
+```bash
+pm2 start ecosystem.config.js
+```
+
 Test it out! 🛠️
 
 Use tools like Postman or curl to make API calls and simulate client interactions. 📡
