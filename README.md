@@ -19,7 +19,7 @@ Here’s how the project is laid out:
 ├── nginx.conf          🕸️ Configuration for the NGINX load balancer.
 ├── package.json        📜 Dependencies and project metadata.
 ├── package-lock.json   🔐 Lock file for consistent dependencies.
-└── node_modules/       📚 Installed dependencies (ignore this one!).
+└── node_modules/       📚 Installed dependencies.
 ```
 
 🛠️ How It Works 🎯
