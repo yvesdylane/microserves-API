@@ -74,13 +74,14 @@ node authServer.js
 ```
 
 # Start the Order Server 🛒
-
+```bash
 node orderServer.js
-
+```
 
 # Start the Product Server 📦
-
+```bash
 node productServer.js
+```
 
 (Optional) Set up NGINX 🕸️, PM2 was also use:
 
