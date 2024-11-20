@@ -12,6 +12,7 @@ Here’s how the project is laid out:
 ├── authServer.js       🔑 Handles user authentication.
 ├── orderServer.js      🛒 Manages orders and transactions.
 ├── productServer.js    📦 Deals with products and inventory.
+├── ecosystem.config.js 🌍️ Use to handle multiple instances of services using pm2.
 ├── models/             🧩 Data models for the services.
 ├── controllers/        🎮 Controllers to manage logic.
 ├── middlewares/        🛡️ Middleware for validations & security.
