@@ -56,8 +56,8 @@ All these services communicate seamlessly through REST APIs 🌐, with an option
 Clone the repository 🖇️:
 
 ```bash
-git clone https://github.com/yourusername/cload.git
-cd cload
+git clone https://github.com/yvesdylane/microserves-API
+cd microserves-API
 ```
 
 Install dependencies 📥:
